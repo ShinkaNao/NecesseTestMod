@@ -14,7 +14,7 @@ import necesse.level.maps.biomes.Biome;
 public class TestMod {
 
     public void init() {
-        System.out.println("Hello world from my example mod!");
+        System.out.println("Hello world from my test mod!");
 
         // Register our tiles
         TileRegistry.registerTile("exampletile", new ExampleTile(), 1, true);
