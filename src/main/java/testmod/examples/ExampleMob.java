@@ -1,4 +1,4 @@
-package examplemod.examples;
+package testmod.examples;
 
 import necesse.engine.tickManager.TickManager;
 import necesse.engine.util.GameRandom;
@@ -24,7 +24,7 @@ import java.util.List;
 
 public class ExampleMob extends HostileMob {
 
-    // Loaded in examplemod.ExampleMod.initResources()
+    // Loaded in testmod.ExampleMod.initResources()
     public static GameTexture texture;
 
     public static LootTable lootTable = new LootTable(

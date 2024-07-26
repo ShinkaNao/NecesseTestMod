@@ -1,4 +1,4 @@
-package examplemod.examples;
+package testmod.examples;
 
 import necesse.entity.mobs.buffs.ActiveBuff;
 import necesse.entity.mobs.buffs.BuffEventSubscriber;

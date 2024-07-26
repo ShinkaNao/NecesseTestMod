@@ -1,4 +1,4 @@
-package examplemod.examples;
+package testmod.examples;
 
 import necesse.inventory.item.Item;
 import necesse.inventory.item.toolItem.swordToolItem.SwordToolItem;
